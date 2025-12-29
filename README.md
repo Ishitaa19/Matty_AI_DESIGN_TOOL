@@ -1,4 +1,5 @@
 # 🎨 Matty AI Design Tool
+Live Link https://matty-lilac.vercel.app/
 
 Matty AI Design Tool is a web-based designing application that allows users to create custom designs using templates, shapes, text, and other visual elements. The tool provides an interactive canvas with essential features like undo/redo and saving designs, making it suitable for posters, banners, and basic graphic design needs.
 
@@ -24,12 +25,8 @@ Matty AI Design Tool is a web-based designing application that allows users to c
 ---
 
 ## 📂 Project Structure
-Matty_AI_DESIGN_TOOL/
-├── frontend/
-├── backend/
-├── README.md
-├── package.json
-└── .gitignore
+<img width="134" height="88" alt="{F6F9D5E2-12C9-44EC-AC49-CDD32F26D468}" src="https://github.com/user-attachments/assets/c15f70dd-3aab-4d64-8780-4e1d81e6f07d" />
+
 
 ---
 
